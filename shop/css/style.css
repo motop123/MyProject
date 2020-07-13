@@ -1,0 +1,657 @@
+*{
+    color:#3c3c3c;
+}
+#block-body{
+    width: 98%;
+    height: auto;
+    border: 1px solid black;
+    background: url(/images/background.jpg);
+    margin: 0px auto;
+}
+
+#block-content{
+    width: 90%;
+    height: 635px;
+    margin: 50px auto;
+}
+#block-content-check{
+    width: 90%;
+    height: auto;
+    margin: 50px auto;
+    text-align: center;
+    align-content: center;
+}
+#block-content-administration{
+    width: 90%;
+    height: auto;
+    margin: 50px auto;
+    text-align: center;
+    align-content: center;
+}
+#block-content-administration h1{
+    font-size: 22px;
+    border: 1px solid black;
+}
+#block-content-login{
+    width: 200px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#block-content-reg{
+    width: 200px;
+    margin: 50px auto;
+    text-align: center;
+
+}
+#block-header{
+    width: 100%;
+    height: 150px;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.5)
+}
+#block-right{
+    width: 560px;
+    height: 290px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+    cursor: pointer;
+    background: url('/images/barista_b.png');
+
+}
+#block-right:hover{
+    width: 560px;
+    height: 290px;
+    box-shadow: 0 0 10px 5px #3c3c3c;
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+    background: url('/images/barista.png');
+}
+#block-left{
+    width: 560px;
+    height: 290px;
+    border: 1px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+    background: url('/images/barmen_b.png');
+}
+#block-left:hover{
+    width: 560px;
+    height: 290px;
+    box-shadow: 0 0 10px 5px #3c3c3c;
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+    background: url('/images/barmen.png');
+}
+#block-right1{
+    width: 560px;
+    height: 290px;
+    border: 1px solid black;
+    border-radius: 15px;
+    float: right;
+    margin-top: 15px;
+    cursor: pointer;
+    background: url('/images/somele_b.png');
+}
+#block-right1:hover{
+    width: 560px;
+    height: 290px;
+    box-shadow: 0 0 10px 5px #3c3c3c;
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+    background: url('/images/somele.png');
+}
+#block-left1{
+    width: 560px;
+    height: 290px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 15px;
+    cursor: pointer;
+    background: url('/images/povar_b.png');
+}
+#block-left1:hover{
+    width: 560px;
+    height: 290px;
+    box-shadow: 0 0 10px 5px #3c3c3c;
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+    background: url('/images/povar.png');
+}
+#text-in-block1{
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    font-size: 22px;
+    margin-left: 230px;
+    margin-top: 130px;
+}
+#text-in-block2{
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    font-size: 22px;
+    margin-left: 230px;
+    margin-top: 130px;
+}#text-in-block3{
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    font-size: 22px;
+    margin-left: 230px;
+    margin-top: 130px;
+}#text-in-block4{
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    font-size: 22px;
+    margin-left: 230px;
+    margin-top: 130px;
+}
+#block-footer{
+    width: 100%;
+    height: 120px;
+    margin-top: 10px;
+    border: 1px solid black;
+    box-shadow: 0px -5px 5px 0px rgba(0,0,0,0.5)
+}
+#header-top-menu li{
+    font: 15px sans-serif;
+    float: left;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: blue;
+    text-decoration: none;
+    border-right: 1px solid black;
+    
+}
+#header-top-menu a{
+    color: blue;
+    text-decoration: none;
+}
+#header-top-menu a:hover{
+    color: green;
+    border-bottom: 1px dashed green;
+}
+#header-mid{
+    font: 15px sans-serif;
+    float: left;
+    margin-top: 5px;
+    cursor: pointer;
+}
+#header-mid img{
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 350px;
+    opacity: 0.9;
+}
+#header-mid a{
+    color: black;
+    text-decoration: none;
+    margin-top: 20px;
+}
+#header-mid p{
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+#block-autorisation-registration{
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+}
+#tovar-text{
+    margin-top:40px ;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 26px;
+}
+#header-mid a{
+height: 40px;
+padding-top: 25px;
+padding-left: 10px;
+padding-right: 10px;
+margin-left: 100px;
+float: right;
+border-right: 1px solid black;
+}
+#block-view-content{
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    display: block;
+
+}
+#portal{
+    padding-top: 300px;
+    margin-left: 50px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 50px;
+}
+#portal1{
+    font-family: 'Russo One', sans-serif;
+    margin-left: 50px;
+    font-size: 20px;
+}
+#text-block-view{
+    width: 900px;
+    height: auto;
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    padding-top: 100px;
+    padding-left: 25px;
+    line-height: 1.5;
+    text-indent: 25px;
+}
+#text-block-view1{
+    width: 900px;
+    height: auto;
+    color: white;
+    font-family: 'Russo One', sans-serif;
+    padding-left: 25px;
+    line-height: 1.5;
+    text-indent: 25px;
+}
+#block-view-content img{
+    width: 100%;
+    height: 700px;
+    opacity: 0.9;
+    
+}
+#block-view{
+    width: 100%;
+    height: 800px;
+    background: url('/images/back.png') no-repeat;
+}
+#block-content-interer{
+    width: 100%;
+    height: 400px;
+    border: 1px solid black;
+    margin-top: 40px;
+}
+#interer1{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 70px auto;
+    margin-left: 161px; 
+    background: url('/images/mebel_b.png');    
+}
+#interer1 p{
+    margin-top: 110px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+#interer1:hover{
+    width: 250px;
+    height: 250px;
+    float: left;
+    cursor: pointer;
+    border: 1px solid black;
+    box-shadow: 0 0 10px 3px #3c3c3c;    
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+    background: url('/images/mebel.png');
+}
+#interer2{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 70px auto;
+    margin-left: 161px;
+    background: url('/images/osvescenie_b.png');     
+}
+#interer2 p{
+    margin-top: 110px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+#interer2:hover{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border: 1px solid black;
+    cursor: pointer;
+    box-shadow: 0 0 10px 3px #3c3c3c;    
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+    background: url('/images/osvescenie.png');
+}
+#interer3{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 70px auto;
+    margin-left: 161px;
+    background: url('/images/decor_b.png');     
+}
+#interer3 p{
+    margin-top: 110px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+#interer3:hover{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border: 1px solid black;
+    cursor: pointer;
+    box-shadow: 0 0 10px 3px #3c3c3c;    
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+    background: url('/images/decor.png');
+}
+#block-uslugi{
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    margin-top: 40px;
+
+}
+#block-uslugi img{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+}
+#block-uslugi img:hover{
+    width: 170px;
+    height: 170px;
+    cursor: pointer;
+    -o-transform: scale(1, 2);
+	-ms-transform: scale(1, 2);
+	-moz-transform: scale(1, 2);
+	-webkit-transform: scale(1, 2);
+	transform: scale(1.1, 1.1);
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+}
+#uslugi1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 360px;
+}
+#uslugi2{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+#uslugi3{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+#text-uslugi1{
+    font-family: 'Russo One', sans-serif;
+    padding-left: 35px;
+}
+#text-uslugi2{
+    font-family: 'Russo One', sans-serif;
+    padding-left: 50px;
+}
+#text-uslugi3{
+    font-family: 'Russo One', sans-serif;
+    padding-left: 30px;
+}
+
+#icons-header{
+    padding-bottom: 20px;
+    margin-top: -80px;
+}
+#icons-bottom{
+    margin-top: 20px;
+    margin-right: 600px;
+}
+#social{
+    width: 150px;
+    height: 30px;
+    float: right;
+    margin-top: 5px;
+}
+#vk{
+    width: 30px;
+    height: 30px;
+    float: left;
+    background: url('/images/vk.png') no-repeat; 
+    background-size: 30px;
+    cursor: pointer;
+}
+#vk:hover{
+    width: 30px;
+    height: 30px;
+    float: left;
+    background: url('/images/vk_k.png') no-repeat; 
+    background-size: 30px;
+    cursor: pointer;
+}
+#inst{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 20px;
+    background: url('/images/inst.png') no-repeat; 
+    background-size: 30px;
+    cursor: pointer;
+}
+#inst:hover{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 20px;
+    background: url('/images/inst_k.png') no-repeat; 
+    background-size: 30px;
+    cursor: pointer;
+}
+#fb{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 20px;
+    background: url('/images/facebook.png') no-repeat; 
+    background-size: 30px;
+    cursor: pointer;
+}
+#fb:hover{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 20px;
+    background: url('/images/facebook_k.png') no-repeat; 
+    background-size: 30px;
+    cursor: pointer;
+}
+
+#profile{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 25px;
+    background: url('/images/user.png') no-repeat; 
+    background-size: 30px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+#profile-name{
+    float: right;
+    margin-top: 35px;
+    border-bottom: 1px solid black;
+    cursor: pointer;
+}
+#profile p{
+    margin-right: 2000px;
+}
+#profile:hover{
+    background-image: url('/images/user_k.png');
+}
+#trash{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 80px;
+    background-image: url('/images/trash.png');
+    background-size: 31.15px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+#trash:hover{
+    background-image: url('/images/trash_k.png');
+}
+/*------------------------search------------*/
+.d1 #text-search {
+    width: 300px;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 40px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.d1 #button-search{
+    width: 35px;
+    height: 35px;
+    background: url('/images/search.png');
+    background-size: 35px;
+    border: none;
+}
+/*------------------------search------------*/
+#createdby{
+    margin-left: 590px;
+    margin-top: 70px;
+}
+#feedback{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+    cursor: pointer;
+    background: url('/images/feedback.png');
+    background-size: 30px;
+    border: none;
+}
+#feedback:hover{
+    width: 30px;
+    height: 30px;
+    background: url('/images/feedback_k.png');
+    background-size: 30px;
+}
+.popup {
+	position: absolute;
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	display:none;
+    margin-top: 200px;
+}
+
+.popup_bg {
+	background:rgba(0,0,0,0.4);
+	position:absolute;
+	z-index:1;
+	height:100%;
+	width:100%;
+}
+.form {
+	position: relative;
+	margin:4px auto;
+	z-index:2;
+	width:400px;
+    height: 400px;
+	padding:40px 20px;
+	background:#FFFFFF;
+	border:1px solid #666666;
+	border-radius:20px;
+	box-shadow:0 0 2px rgba(0,0,0,0.5);
+}
+
+.form input {
+width:96%;
+padding:5px 2%;
+margin:10px 0;
+border-radius:4px;
+}
+.button-trash{
+    width: 25px;
+    height: 25px;
+    border: 0px;
+    background: url("/images/add-trash.png");
+    background-size: 25px;
+    margin-right: 45px;
+    float: right;
+}
+.button-trash:hover{
+    background: url("/images/add-trash_k.png");
+    width: 25px;
+    height: 25px;
+    border: 0px;
+    background-size: 25px;
+}

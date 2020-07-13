@@ -1,0 +1,413 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+AddDefaultCharset UTF-8;
+/*Reset */
+input, textarea {border:0; padding:0; margin:0; outline: 0;}
+iframe {border:0; margin:0; padding:0;}
+textarea, select {margin:0; padding:0px;}
+/* align-box */
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/* ---------------------------------------------------------------------------- */
+img{max-width:100%;	height: auto;width: auto;}
+
+p .link {/*Кнопка Читать*/
+  width: 120px;
+  height: 60px;
+  line-height: 50px;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 20px;
+  background: orange radial-gradient(150% 100% at 50% 10px, rgba(255,255,255,.2), rgba(0,0,0,0));
+  color: white;
+  padding-top: 3px;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-bottom: 3px;
+  font: 15px/25px Arial;font-family: "Ubuntu"
+} 
+
+.t-center{text-align: center;}
+.t-left{text-align: left;}
+.t-right{text-align: right;}
+.f-right{float: right;}
+.f-left{float: left;}
+
+.post{}
+.post:after, .post:before, article:after, article:before, section:after, section:before{clear: both; content: '\0020'; display: block; visibility: hidden; width: 0; height: 0;}
+
+.clear{content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+.clearfix:after, .clearfix:before{clear: both; content: '\0020'; display: block; visibility: hidden; width: 0; height: 0;}
+
+hr.line{border-color: #e9e9e9;padding: 0;margin: 0;}
+.uppercase{text-transform: uppercase;}
+.widget-title{font-weight: 500;text-transform: uppercase;line-height: 1.38;font-size: 14px;color: white;}
+
+/*Html-Body*/
+
+html, body {width:100%; padding:0; margin:0;}
+body {font: 15px/25px Arial;font-family: "Ubuntu","Helvetica Neue",Helvetica,Arial,sans-serif;background:white;padding:0 0px;}*/
+@media all and (width: 1000px) and (max-width: 1400px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px){
+	body{padding: 0;}
+}
+
+/* Container*/
+
+/* ---content-box--- */
+.content-box.boxstyle-1{background:#1A1C1E; color: #8a8c8e;}
+.content-box.boxstyle-2{background:#F1F3F5;}
+.content-box.box-1 {font-size: 14px;}
+.content-box.box-1 .widget-title{}
+
+/*Footer*/
+
+footer{background: #1A1C1E;font-size: 14px;border-top: 3px solid #fca01c;}
+/*Новостной слайдер---------------*/
+article{
+	color: black;
+	text-align: left;
+	font-weight: bold;
+}
+#slider { /*положение слайдера*/
+    position: relative;
+	text-align: center;
+    top: 10px;
+}
+
+#slider{ /*центровка слайдера*/
+	margin: 0 auto;
+}
+
+#slides article{ /*все изображения слева друг от доруга*/
+	width: 20%;
+	float: left;
+}
+
+#slides .image{ /*устанавливает общий размер блока с изображениями*/
+	width: 155%;
+
+}
+
+#overflow{ /*сркывает все, что находится за пределами этого блока*/
+	width: 100%;
+	overflow: hidden;
+}
+
+article img{ /*размер изображений слайдера*/
+	width: 100%;
+}
+
+#desktop:checked ~ #slider{ /*размер всего слайдера*/
+	max-width: 1200px; /*максимальнная длинна*/
+}
+
+label, a{ /*при наведении на стрелки или переключатели - курсор изменится*/
+	cursor: pointer;
+}
+
+.all input{ /*скрывает стандартные инпуты (чекбоксы) на странице*/
+	display: none;
+}
+
+/*позиция изображения при активации переключателя*/
+#switch1:checked ~ #slides .image{
+	margin-left: 0;
+}
+
+#switch2:checked ~ #slides .image{
+	margin-left: -100%;
+}
+
+#switch3:checked ~ #slides .image{
+	margin-left: -200%;
+}
+
+#switch4:checked ~ #slides .image{
+	margin-left: -300%;
+}
+
+
+#controls{ /*положение блока всех управляющих элементов*/
+	margin: -25% 0 0 0 ;
+	width: 100%;
+	height: 50px;
+}
+
+#active label{ /*стиль отдельного переключателя*/
+	border-radius: 10px; /*скругление углов*/
+	display: inline-block; /*расположение в строку*/
+	width: 15px;
+	height: 15px;
+	background: #bbb;
+}
+
+#active{ /*расположение блока с переключателями*/
+	margin: 25% 0 0 0;
+	text-align: center;
+}
+
+#active label:hover{ /*поведение чекбокса при наведении*/
+	background: #76c8ff;
+	border-color: #777 !important; /*выполнение в любом случае*/
+}
+
+/*цвет активного лейбла при активации чекбокса*/
+#switch1:checked ~ #active label:nth-child(1),
+#switch2:checked ~ #active label:nth-child(2),
+#switch3:checked ~ #active label:nth-child(3),
+#switch4:checked ~ #active label:nth-child(4),
+#switch5:checked ~ #active label:nth-child(5){
+	background: #18a3dd;
+	border-color: #18a3dd !important;
+}
+
+#slides .image{ /*анимация пролистывания изображений*/
+	transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
+}
+
+#controls label:hover{ /*прозрачность стрелок при наведении*/
+	opacity: 0.6;
+}
+
+#controls label{ /*прозрачность стрелок при отводе курсора*/
+	transition: opacity 0.2s ease-out;
+}
+
+/* Слайдер в контейнере--------------------------------- */
+.viewport{
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+    margin-top: 42px;
+}
+.slidewrapper{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100px;
+    margin: 0;
+    padding: 0;    
+}
+.slide{
+    width: 400px;
+    height: 100px;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+/*Table*-----------/
+/* внешние границы таблицы серого цвета толщиной 1px */
+table {border: 1px solid grey;} 
+/* границы ячеек первого ряда таблицы */
+th {border: 1px;}
+/* границы ячеек тела таблицы */
+td {border: 1px solid grey;text-align: center;}
+table {width: 60%;margin: auto;}
+
+#table{width: 64%;margin: auto;}
+/*Всплывающее окно Обратной связи---------------------*/
+#popUp {
+    position:relative;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto; 
+	height: 500px;
+	position: relative;
+	width: 400px;  
+    background-color: #1A1C1E;
+    border-radius: 15px;	
+	display: none; 
+	padding: 17px;
+	z-index: 6;
+    
+}
+
+#popUp #close {
+cursor: pointer;
+    position: absolute;
+	width: 23px;
+	height: 23px;
+	right: 20px;
+	display: block;
+    color : white;
+    bottom: 470px;
+}
+#inline {
+margin-left: 30px;
+    width: 100%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 10px 20px;
+}
+.txt { 
+    display: inline-block;
+    color: #676767;
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 5px 9px;
+    font-size: 15px!important;
+    line-height: 1.4em;
+}
+.txtarea { 
+    display: inline-block;
+    color: #676767;
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 5px 9px;
+    font-size: 15px!important;
+    line-height: 1.4em;
+    height: 100%;
+    margin: auto;
+}
+.txt:focus, .txtarea:focus {
+ border-style: solid; 
+ border-color: #bababa; 
+ color: #444; 
+ }
+input.error, textarea.error { 
+    border-color: #973d3d; 
+    border-style: solid; 
+    background: #f0bebe; 
+    color: #a35959; 
+    }
+input.error:focus, textarea.error:focus { 
+    border-color: #973d3d; 
+    color: #a35959;
+     }
+#send { 
+    color: gray;
+    display: block;
+    cursor: pointer;
+    padding: 5px 11px;
+    font-size: 1.2em;
+    border: solid 1px #F9F9F9;
+    border-radius: 2px;
+    background: #fca01c;
+    width: 210px;
+    margin-bottom: 20px;
+    margin: auto;
+}
+#overlay {/*Затемнение за формой*/
+	z-index:4; 
+	background-color:gray; 
+	position:fixed; 
+	opacity:0.86;
+	width:100%; 
+	height:100%;
+	display:none; 
+	top:0;
+	left:0;
+}
+.inp{
+padding: 3px;
+border: 1px solid gray;
+width: 200px;
+resize: none;
+color: #999999;
+box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+/* === Оформление кнопки === */
+button.submit {
+	background-color: #fca01c;
+	border: 1px solid;
+	border-bottom: 1px solid;
+	border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	padding: 6px 20px;
+	text-align: center;
+}
+button.submit:hover {
+	opacity:.85;
+	cursor: pointer; 
+}
+button.submit:active {
+	border: 1px solid #20911e;
+	box-shadow: 0 0 10px 5px #356b0b inset; 	
+}
+/*Всплывающее окно Задать вопрос ---------------------*/
+#popUp1 {
+    position:relative;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto; 
+	height: 220px;
+	position: relative;
+	width: 400px;  
+    background-color: #1A1C1E;
+    border-radius: 15px;	
+	display: none; 
+	padding: 17px;
+	z-index: 6;
+}
+#popUp1 #close1 {
+cursor: pointer;
+    position: absolute;
+	width: 23px;
+	height: 23px;
+	right: 20px;
+	display: block;
+    color : white;
+    bottom: 190px;
+}
+#overlay {
+	z-index:4; 
+	background-color:gray;
+	position:fixed; 
+	opacity:0.86;
+	width:100%; 
+	height:100%;
+	display:none; 
+	top:0;
+	left:0;
+}
+.inp{
+padding: 3px;
+border: 1px solid gray;
+width: 200px;
+resize: none;
+color: #999999;
+box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+/* === Оформление кнопки === */
+button.submit {
+	background-color: #fca01c;
+	border: 1px solid;
+	border-bottom: 1px solid;
+	border-radius: 3px;
+	color: white;
+	font-weight: bold;
+	padding: 6px 20px;
+	text-align: center;
+}
+button.submit:hover {
+	opacity:.85;
+	cursor: pointer; 
+}
+button.submit:active {
+	border: 1px solid #20911e;
+	box-shadow: 0 0 10px 5px #356b0b inset; 	
+}
+textarea {
+    width: 90%; /* Ширина поля в процентах */
+    height: 200px; /* Высота поля в пикселах */
+    resize: none; /* Запрещаем изменять размер */
+    
+   }
+
+

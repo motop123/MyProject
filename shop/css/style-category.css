@@ -1,0 +1,105 @@
+/*----------BlocksCategory----------*/
+
+#block-barmen-category{
+    width: 250px;
+    height: auto;
+    padding-left: 10px;
+    font-family: 'Russo One', sans-serif;
+    margin-top: 5px;
+    margin: auto;
+    
+}
+#block-barmen-category h1{
+    font-size: 55px;
+}
+#block-barmen-undercategory{
+    width: 250px;
+    height: auto;
+    border: 1px solid black;
+    padding-left: 10px ;
+    margin-top: 15px;
+    font-family: 'Russo One', sans-serif;
+}
+img {
+    height: auto;
+    max-width: 100%;
+}
+.content{
+    margin-top: 20px;
+}
+.product {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #c0c0c0;
+    height: auto;
+    width: 230px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    transition: all 0.5s ease 0s;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.product:hover {
+    box-shadow: 0 0 16px #3c3c3c;
+}
+.products{
+    margin-top: 90px;
+
+}
+.product img{
+    width: 230px;
+    height: 230px;
+}
+.product-img {
+    width: auto;
+    height: auto;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.5)
+}
+.product-title{
+    margin-top: 20px;
+}
+.product-title a {
+    color: #3c3c3c;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 18px;
+
+}
+.product-desc {
+    max-height: 60px;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+.product-price {
+    bottom: 1px;
+    left: 35px;
+    position: relative;
+    width: 100%;
+    color: #c13030;
+    font-size: 18px;
+    font-weight: 500;
+}
+.list-group-item{
+    cursor: pointer;
+    font-family: 'Russo One', sans-serif;
+}
+.list-group-item.salary{
+    background: #3c3c3c;
+    color: white;
+}
+.list-group-item.salary:hover{
+    background: #303030;
+    color: white;
+}
+.block-product-content{
+    margin-top: 10px;
+}
+.rasdelitel{
+    background-image: url("/images/razdelitel.png");
+    background-size: 150px;
+    width: 150px;
+    height: auto;
+    margin: 0px auto;
+}

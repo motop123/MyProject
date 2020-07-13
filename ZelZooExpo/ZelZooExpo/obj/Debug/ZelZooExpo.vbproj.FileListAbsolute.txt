@@ -1,0 +1,368 @@
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe.config
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.pdb
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.xml
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbprojAssemblyReference.cache
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.Resources.resources
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.StartForm.resources
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.GenerateResource.cache
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.xml
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.pdb
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbprojAssemblyReference.cache
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.aktyalizat.resources
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.Resources.resources
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.StartForm.resources
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.GenerateResource.cache
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CoreCompileInputs.cache
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.xml
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.pdb
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe.config
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.pdb
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.xml
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.aktyalizat.resources
+C:\Users\danii\source\repos\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.prosmotr.resources
+C:\Users\Student410\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.prosmotr.resources
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe.config
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.pdb
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.xml
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.aktyalizat.resources
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.Resources.resources
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.prosmotr.resources
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.StartForm.resources
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.GenerateResource.cache
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.xml
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.pdb
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe.config
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.pdb
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.xml
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbprojAssemblyReference.cache
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.aktyalizat.resources
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.Resources.resources
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.prosmotr.resources
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.report.resources
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.StartForm.resources
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.GenerateResource.cache
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CoreCompileInputs.cache
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.xml
+C:\Users\Student406\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.pdb
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD.mdf
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD_log.ldf
+C:\Users\danii\Desktop\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbprojAssemblyReference.cache
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe.config
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.pdb
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.xml
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbprojAssemblyReference.cache
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.aktyalizat.resources
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.Resources.resources
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.prosmotr.resources
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.StartForm.resources
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.GenerateResource.cache
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.xml
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.pdb
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD.mdf
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD_log.ldf
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CopyComplete
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\EnvDTE.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\stdole.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\EnvDTE80.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj80.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.MSXML.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj2.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe.config
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD.mdf
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD_log.ldf
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe.config
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.pdb
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.xml
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Newtonsoft.Json.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\EnvDTE.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Framework.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\stdole.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\EnvDTE80.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj80.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.MSXML.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj2.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbprojAssemblyReference.cache
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe.config
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.aktyalizat.resources
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.Resources.resources
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.prosmotr.resources
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.StartForm.resources
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.GenerateResource.cache
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CoreCompileInputs.cache
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CopyComplete
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.xml
+E:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.pdb
+C:\Users\danii\source\repos\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Newtonsoft.Json.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD.mdf
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\animalBD_log.ldf
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe.config
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.exe
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.pdb
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ZelZooExpo.xml
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Newtonsoft.Json.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\EnvDTE.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Framework.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\stdole.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\EnvDTE80.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj80.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.MSXML.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\VSLangProj2.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbprojAssemblyReference.cache
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe.config
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.aktyalizat.resources
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.Resources.resources
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.prosmotr.resources
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.StartForm.resources
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.GenerateResource.cache
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CoreCompileInputs.cache
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.vbproj.CopyComplete
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.exe
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.xml
+F:\МОя база данных\Курсач\ZelZooExpo_НА_ЛОКАЛКЕ\ZelZooExpo\ZelZooExpo\obj\Debug\ZelZooExpo.pdb

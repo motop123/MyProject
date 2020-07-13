@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DataBase.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/administration.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/barmen-page.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/check.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/db.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/include/block-auth-reg.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/include/block-content.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/include/block-footer.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/include/block-header.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/include/block-view-content.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/include/category.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/korzina.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/login.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/signup.php" charset="windows-1251" />
+  </component>
+</project>
